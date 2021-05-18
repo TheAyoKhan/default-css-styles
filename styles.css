@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Code");
+@import url("https://fonts.googleapis.com/css2?family=Fira+Code");
+@import url('https://fonts.googleapis.com/css2?family=Coda');
+
+body {
+	font-family: "Coda";
+}
+
+code, samp, kbd {
+	font-family: "Fira Code";
+}
