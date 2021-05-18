@@ -12,4 +12,6 @@ Seriously though, why have a gigantico bunch of text in my CSS file that I need 
 
 So other people, like you, can use my stylings too! I've separated the reset and the actual stylings in case someone doesn't want the reset too.
 
-Enjoy! ☺
+Enjoy! 😊
+
+(Also I didn't write the reset I'm just putting it here 😏)
